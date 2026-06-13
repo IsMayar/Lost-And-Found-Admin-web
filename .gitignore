@@ -38,3 +38,7 @@ coverage/
 *.njsproj
 *.sln
 *.sw?
+
+# TypeScript build info
+tsconfig.tsbuildinfo
+*.tsbuildinfo
